@@ -1,0 +1,6 @@
+{
+  "name": "Osita Chidoka",
+  "description": "Official digital website of Osita Chidoka: Public Servant, Writer, and Institution Builder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
